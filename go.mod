@@ -1,3 +1,3 @@
-module github.com/machengjie-1/how-to-release-go-module/v2
+module github.com/andyfarm/how-to-release-go-module12
 
 go 1.13
